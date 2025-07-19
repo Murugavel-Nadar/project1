@@ -8,3 +8,10 @@ h1{
 color: brown;
 background-color: beige;
 }
+
+.border{
+background-color: orange;
+color: red;
+border: 1px;
+
+}

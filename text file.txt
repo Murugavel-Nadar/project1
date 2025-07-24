@@ -1,1 +1,9 @@
-my new file
+first step - git add . (. is called to call all files)
+second step - git commit -m "add message" then enter
+
+third - git push origin (your folder name) main(your branch name) 
+branch is like small branch from origin
+
+git branch
+git checkout "type branch name" 
+if u want to change the branch name "git branch -M "type branch name which you need to add"
